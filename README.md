@@ -1,4 +1,4 @@
-![SpamGuard](https://github.com/thatritikpatel/SpamGuard-Spam-Classifier/static/images/Email%20Spam%20Filtering.png)
+![SpamGuard](https://github.com/thatritikpatel/SpamGuard-Spam-Classifier/blob/main/static/images/Email%20Spam%20Filtering.png)
 
 # SpamGuard-Spam-Classifier
 
