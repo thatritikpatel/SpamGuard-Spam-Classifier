@@ -1,6 +1,15 @@
+![SpamGuard](https://github.com/thatritikpatel/SpamGuard-Spam-Classifier/static/images/Email%20Spam%20Filtering.png)
+
 # SpamGuard-Spam-Classifier
 
 SpamGuard-Spam-Classifier is a machine learning-based solution designed to classify SMS messages as either spam or legitimate (ham). This project leverages natural language processing (NLP) techniques and machine learning models to build an efficient spam classifier. The classifier is deployed via a Flask web application for easy interaction and real-time predictions.
+
+## Video Demo
+
+Here's a video demo of the project:
+
+https://github.com/user-attachments/assets/1f9a36cd-162f-40c5-917a-8d4240397aff
+
 
 ## Table of Contents
 
@@ -200,3 +209,7 @@ Contributions are welcome! To contribute, follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details."# SpamGuard-Spam-Classifier" 
+
+## Contact
+- Ritik Patel - [ritik.patel129@gmail.com]
+- Project Link: [https://github.com/thatritikpatel/SpamGuard-Spam-Classifier/]
