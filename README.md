@@ -92,6 +92,8 @@ The SMS Spam Collection dataset, used to train and evaluate the classifier, cont
 
 ### Data Sources
 
+[Kaggle](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+
 The dataset was created from various sources:
 
 - **Grumbletext Website**: 425 spam messages collected from a UK-based forum where users report spam SMS.
